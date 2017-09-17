@@ -3,10 +3,10 @@
 Git is amazing.
 
 #Authors
-Nick
+-Nick
 
 #Compiling
-To-Do
+_To-Do_
 
 #Contributing
-Clone
+__Clone__
