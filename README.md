@@ -1,7 +1,7 @@
 # first_repo
 
 Git is amazing.
-
+I'm making a second change here to commit back.
 #Authors
 -Nick
 
